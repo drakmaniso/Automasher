@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Automasher</Name>
+  <Id>org.drakmaniso.Automasher</Id>
+  <Version>6.2</Version>
+  <ApiVersion>3</ApiVersion>
+  <Author>drakmaniso | moussault.laurent@gmail.com</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>In Progress</Category>
+  <Description>A flexible tool to create complex automation curves.</Description>
+  <Homepage>http://tools.renoise.com</Homepage>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
